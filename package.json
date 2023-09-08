@@ -3,15 +3,11 @@
   "version": "3.0.0-OS9",
   "description": "Cordova plugin for Firebase Crashlytics",
   "cordova": {
-    "id": "cordova-plugin-firebase-crash",
+    "id": "cordova-OS-plugin-firebase-crash",
     "platforms": [
       "ios",
       "android"
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chemerisuk/cordova-plugin-firebase-crash.git"
   },
   "author": "Maksim Chemerisuk <chemerisuk@gmail.com> (https://github.com/chemerisuk)",
   "license": "MIT",
