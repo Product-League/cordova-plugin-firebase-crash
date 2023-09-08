@@ -1,6 +1,6 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
-           id="cordova-plugin-firebase-crash"
+           id="cordova-OS-plugin-firebase-crash"
       version="3.0.0-OS9">
 
     <name>cordova-plugin-firebase-crash</name>
