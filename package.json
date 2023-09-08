@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-firebase-crash",
+  "name": "cordova-OS-plugin-firebase-crash",
   "version": "3.0.0-OS9",
   "description": "Cordova plugin for Firebase Crashlytics",
   "cordova": {
